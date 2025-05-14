@@ -1,7 +1,7 @@
 # CSE4170 - Introduction to Computer Graphics  
-![](./Docs/Full_Animation.gif)
-
 ## HW2: 2D Modeling Transformations Using OpenGL API
+
+![](./Docs/Full_Animation.gif)
 
 **Name**: 최서임  
 **Student ID**: 20221623  
