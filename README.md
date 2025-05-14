@@ -1,5 +1,5 @@
 # CSE4170 - Introduction to Computer Graphics  
-![]("../Docs/Full_Animation.gif")
+![](../Docs/Full_Animation.gif)
 
 ## HW2: 2D Modeling Transformations Using OpenGL API
 
