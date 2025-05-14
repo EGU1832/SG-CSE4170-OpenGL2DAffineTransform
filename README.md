@@ -71,7 +71,7 @@ This project implements creative and complex **2D affine transformations** using
 
 ---
 
-## 7. License
+## 5. License
 
 This project was completed as part of the Sogang University [CSE4170] course and is submitted for educational purposes only.
 
