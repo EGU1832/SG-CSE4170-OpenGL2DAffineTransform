@@ -3,10 +3,6 @@
 
 ![](./Docs/Full_Animation.gif)
 
-**Name**: 최서임  
-**Student ID**: 20221623  
-**Date**: 2024.04.18 ~ 2024.05.06  
-
 ---
 
 ## 1. Environment
