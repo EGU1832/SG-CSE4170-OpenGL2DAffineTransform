@@ -71,18 +71,6 @@ This project implements creative and complex **2D affine transformations** using
 
 ---
 
-## 5. File List
-
-- `main.cpp` — Entry point with rendering loop  
-- `transform.cpp` — Affine transformation logic  
-- `object.cpp` — Object drawing and modeling  
-- `utils.hpp/cpp` — Utility functions (time, math, etc.)  
-- `README.md` — This documentation  
-- `.gitignore` — Visual Studio & OS-specific ignores  
-- `resources/` — (Optional) Image or data assets  
-
----
-
 ## 7. License
 
 This project was completed as part of the Sogang University [CSE4170] course and is submitted for educational purposes only.
